@@ -6,6 +6,11 @@ function CountryItem({ country }) {
       <span>{country.emoji}</span>
       <span>{country.country}</span>
     </li>
+
+    // <li className={styles.countryItem}>
+    //   <span>💛</span>
+    //   <span>Romania</span>
+    // </li>
   );
 }
 
