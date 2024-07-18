@@ -93,7 +93,7 @@ function DetectClick() {
   // we navigate to the 'form' route, passing the latitude and longitude as query parameters
   useMapEvents({
     click: (e) => {
-      console.log("detecting click", e);
+      // console.log("detecting click", e);
       navigate(`form?lat=${e.latlng.lat}&lng=${e.latlng.lng}`);
     },
   });
