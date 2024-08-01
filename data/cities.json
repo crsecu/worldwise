@@ -11,6 +11,30 @@
         "lat": "44.439050770461044",
         "lng": "26.19140625"
       }
+    },
+    {
+      "id": "396d",
+      "cityName": "Township of Searcy",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-07-25T01:28:27.705Z",
+      "notes": "sd",
+      "position": {
+        "lat": "35.29943548054545",
+        "lng": "-90.63720703125"
+      }
+    },
+    {
+      "id": "a1ac",
+      "cityName": "La Almolda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-01T18:56:28.355Z",
+      "notes": "Test",
+      "position": {
+        "lat": "41.57436130598913",
+        "lng": "-0.26367187500000006"
+      }
     }
   ]
 }
